@@ -1,2 +1,2 @@
-# MichelleSlyFox
-A collection of portfolio items for Michelle Faulds at SlyFox
+# JeffSmartWebPros
+A collection of portfolio items for Jeff Christofferson at SmartWebPros.com
